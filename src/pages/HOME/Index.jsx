@@ -2,7 +2,7 @@ import React from 'react'
 import Header from '../../components/HEADER/header';
 import '../../universalstyle.css';
 import './home.css';
-import TestimonialSlider from '../../components/TESTIMONIAL/testimonialSlider';
+// import TestimonialSlider from '../../components/TESTIMONIAL/testimonialSlider';
 import Footer from '../../components/FOOTER/footer';
 import Details from '../../components/DETAILS/Details';
 import Services from '../../components/SERVICES/Services';
