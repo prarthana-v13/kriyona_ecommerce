@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+.courier {
+  font-family: "Courier Prime", monospace;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  text-decoration: none !important;
+}
+ul li {
+  list-style: none;
+}
+.text-b1 {
+  color: #0d0f06;
+}
+.text-b2 {
+  color: #1a1b1f;
+}
+.text-w1 {
+  color: #f7f9f0;
+}
+.text-w2 {
+  color: aliceblue;
+}
+.text-w3 {
+  color: #eeeff3;
+}
+.fs-14 {
+  font-size: 14px;
+}
+.fs-80 {
+  font-size: 80px;
+}
+.fs-16 {
+  font-size: 16px;
+}
+.fs-15 {
+  font-size: 15px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fs-17 {
+  font-size: 17px;
+}
+.fs-69 {
+  font-size: 60px;
+}
+.fs-20 {
+  font-size: 20px;
+}
+.fs-42 {
+  font-size: 42px;
+}
+.fs-23 {
+  font-size: 23px;
+}
+.fs-26 {
+  font-size: 26px;
+}
+.fs-30 {
+  font-size: 30px;
+}
+.fs-33 {
+  font-size: 33px;
+}
+.fs-35 {
+  font-size: 35px;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.fw-800 {
+  font-weight: 800;
+}
+.red-100 {
+  color: #df4c2d;
+}
+.red-b {
+  color: #be1432;
+}
+.grey-100 {
+  color: #959cb1;
+}
+.grey-200 {
+  color: #424f5f;
+}
+.p-all {
+  padding: 30px 50px;
+}
+.bb- {
+  border-block: 1px solid #000;
+}
+.br- {
+  border-right: 1px solid #000;
+}
+.bl- {
+  border-left: 1px solid #000;
+}
+.bu- {
+  border-top: 1px solid #000;
+}
+
+.bd- {
+  border-bottom: 1px solid #000;
+}
+.bg-gradient-btn {
+  background: linear-gradient(100deg, #fff4e8 5%, #ffe4ff 98%);
+}
+.bg-gradient-2 {
+  background: linear-gradient(100deg, #edf0f1 35%, #efe8f3 53%);
+}
+.bg-gradient-r {
+  background: radial-gradient(circle, #dddddd 20%, #f2f2f2 60%, #ffffff 100%);
+}
+.bg-gradient-a {
+  background: radial-gradient(
+    circle,
+    #f9f9f9 20%,
+    /* Very light whitish gray */ #f2f2f2 40%,
+    /* Slightly darker whitish gray */ #e0e6ef 60%,
+    /* Light blue-gray from the illustration */ #efe8f3 80%,
+    /* Soft lavender tone */ #ffe4ff 100% /* Light pastel pink */
+  );
+}
+.bg-gradient-pink {
+  background: radial-gradient(
+    circle,
+    rgba(255, 250, 240, 1) 0%,
+    rgba(255, 240, 250, 0.6) 30%,
+    rgba(240, 220, 255, 0.5) 60%,
+    rgba(255, 250, 240, 1) 100%
+  );
+}
+.bg-gradient-b {
+  background: linear-gradient(
+    to bottom right,
+    rgba(255, 255, 240, 1) 0%,
+    /* Light cream */ rgba(255, 240, 255, 0.8) 25%,
+    /* Light blush pink */ rgba(240, 255, 255, 0.6) 50%,
+    /* Very light aqua */ rgba(240, 240, 255, 0.4) 75%,
+    /* Very light lavender */ rgba(255, 255, 240, 1) 100%
+  ); /* Light cream again */
+}
+.bg-gradient-soft-white {
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.8) 0%,
+    /* Center: semi-transparent white */ rgba(250, 245, 255, 0.7) 30%,
+    /* Soft semi-transparent white-lavender */ rgba(245, 234, 255, 0.6) 60%,
+    /* Slightly deeper semi-transparent lavender */ rgba(255, 228, 255, 0.4) 90%,
+    /* Light lavender with more transparency */ rgba(255, 255, 255, 0.2) 100%
+      /* Light white at the edges with high transparency */
+  );
+}
+.bg-gradient-blue {
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.8) 0%,
+    /* Center: semi-transparent white */ rgba(235, 245, 255, 0.7) 30%,
+    /* Soft white-blue */ rgba(220, 235, 255, 0.6) 60%,
+    /* Deeper blue */ rgba(200, 220, 255, 0.4) 90%,
+    /* Light blue */ rgba(255, 255, 255, 0.2) 100% /* Light white at edges */
+  );
+}
+.my-80 {
+  margin-block: 80px;
+}
+.pt-100 {
+  padding-top: 100px;
+}
+.pb-100 {
+  padding-bottom: 100px;
+}
+.py-60 {
+  padding-block: 90px;
+}
+.w-90 {
+  width: 90%;
+}
+.mx-11 {
+  margin-inline: 1px !important;
+}

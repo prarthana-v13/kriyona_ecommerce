@@ -1,0 +1,19 @@
+.bg-red {
+  background-image: ("");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Set height as needed */
+  width: 100%;
+}
+.image-container {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /* background-color: aliceblue; */
+  /* background-blend-mode: lighten; */
+}
+.image-container img {
+  width: 100%;
+  height: 100%;
+}

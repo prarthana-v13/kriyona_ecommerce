@@ -1,0 +1,36 @@
+.bgabout {
+  background: url("images/bgabout.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.para {
+  letter-spacing: 0.8px;
+  line-height: 30px;
+  word-spacing: 2px;
+}
+.feature-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 75px;
+  /* background: linear-gradient(50deg, #fff4e8 5%, #ffe4ff 93%); */
+}
+.feature-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.feature-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+}
+.features {
+  text-align: left;
+  /* padding: 10px; */
+}
+.features-inner:hover {
+  transform: scale(1.05); /* Slightly scale up on hover */
+  transition: transform 0.3s; /* Smooth transition */
+}

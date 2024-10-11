@@ -1,0 +1,20 @@
+/* about.css */
+.text-center {
+  text-align: center;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.mt-5 {
+  margin-top: 3rem;
+}
+.py-5 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.vector {
+  width: 70%;
+  height: auto;
+}
