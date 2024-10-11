@@ -31,7 +31,9 @@ const Header = () => {
           <div className="row align-items-center ">
             <div className="navbar">
               <div className="col-2 mb-0 text-center">
-                <h2 className='logo bg-gradient-btn mb-0 bb- br- bl-'>Kriyona</h2>
+                <Link to={'/'}>
+                  <h2 className='logo bg-gradient-btn mb-0 bb- br- bl-'>Kriyona</h2>
+                </Link>
               </div>
               <div className="col-7 d-flex justify-content-center">
                 <ul className="d-flex ml-auto align-items-center mb-0">
