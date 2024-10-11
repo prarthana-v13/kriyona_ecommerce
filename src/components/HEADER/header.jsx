@@ -38,7 +38,7 @@ const Header = () => {
               <div className="col-7 d-flex justify-content-center">
                 <ul className="d-flex ml-auto align-items-center mb-0">
                   <li>
-                    <Link className='text-b1  menu-link montserrat bl-' to={'/'} href="/">Home</Link>
+                    <Link className='text-b1  menu-link montserrat bl-' to={'/'} >Home</Link>
                   </li>
                   <li>
                     <Link className='text-b1 menu-link montserrat bl-' to={'/about'}>About</Link>
