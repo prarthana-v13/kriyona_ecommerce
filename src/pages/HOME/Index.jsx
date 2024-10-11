@@ -30,7 +30,7 @@ const Index = () => {
       </div>
       <Details />
       <Services />
-      <TestimonialSlider />
+      {/* <TestimonialSlider /> */}
       <Footer />
     </>
   )
